@@ -1,0 +1,4 @@
+setup_method:  每个用例开始前执行
+正在执行----test_three
+teardown_method:  每个用例结束后执行
+teardown_class：所有用例执行之前

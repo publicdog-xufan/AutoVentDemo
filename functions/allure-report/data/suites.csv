@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Mar 19 15:00:36 CST 2024","Tue Mar 19 15:00:36 CST 2024","0","","test_demo","Test_Case","","","test_one",""
+"passed","Tue Mar 19 15:00:36 CST 2024","Tue Mar 19 15:00:36 CST 2024","0","","test_demo","Test_Case","","","test_three",""
+"passed","Tue Mar 19 15:00:36 CST 2024","Tue Mar 19 15:00:36 CST 2024","0","","test_allure_demo","TestEditPage","","","test_2","用例描述：先登录，再去执行yyy"
+"passed","Tue Mar 19 15:00:36 CST 2024","Tue Mar 19 15:00:36 CST 2024","1","","test_allure_demo","TestEditPage","","","test_1","用例描述：先登录，再去执行xxx"
+"passed","Tue Mar 19 15:00:36 CST 2024","Tue Mar 19 15:00:36 CST 2024","1","","test_demo","Test_Case","","","test_fun",""
+"failed","Tue Mar 19 15:00:36 CST 2024","Tue Mar 19 15:00:36 CST 2024","1","","test_demo","Test_Case","","","test_two",""
